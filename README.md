@@ -17,7 +17,7 @@ Some codes for networks and display are brought from:
 
 ## Requirements
 
-- Python 3.7
+- Python 3.8
 - PyTorch 1.0
 - [dsntnn 1.0](https://github.com/anibali/dsntnn)
 
